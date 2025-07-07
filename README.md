@@ -28,7 +28,7 @@ Deployment: Vercel
 My Contributions:
 ✅ Built the full-stack application using Next.js for both frontend and backend.✅ Integrated Clerk for secure user authentication and management.✅ Implemented MongoDB Atlas for efficient data storage and retrieval.✅ Utilized Cloudinary for optimized image handling and delivery.✅ Set up Inngest for reliable background task processing (e.g., order confirmation emails).✅ Deployed the application on Vercel with CI/CD pipelines.✅ Designed a responsive and intuitive UI with Tailwind CSS.✅ Created product categorization for hemp-based and eco-friendly products.
 🎥 Demo
-🔗 Live Demo (Update with actual deployment link)
+🔗 Live Demo (https://green-basket-mauve.vercel.app/)
 📖 How to Run Locally
 
 # Clone the repository
